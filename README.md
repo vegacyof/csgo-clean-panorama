@@ -8,3 +8,8 @@ A modified CSGO panorama with all irrelevant and non-functional features removed
 2. Replace `panorama.dll` in the `bin` folder (located next to `csgo.exe`).
 3. Replace `code.pbin` in `csgo/panorama/` folder (e.g., `D:\SteamLibrary\steamapps\common\csgo legacy\csgo\panorama\`).  
    *Make a backup of the original `code.pbin` before replacing.*
+
+## Requirements
+
+For proper functionality, a custom game coordinator is required:  
+https://github.com/mikkokko/csgo_gc
